@@ -1,3 +1,5 @@
 ##Moving Happy Guy
 this was created to practice firebase
-cutiemove.herokuapp.com
+
+press up,down,left,right to move
+[go to site](http://cutiemove.herokuapp.com/)
